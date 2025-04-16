@@ -1,0 +1,43 @@
+Shubham Ramjee Singh 
+B.Tech. – Computer Science & Engineering 
++91 9137561441 
+shubhamraja1414@gmail.com 
+Bhopal, Madhya Pradesh, India – 462036 
+ 
+Career Objective  
+To secure a position in an organization where I can efficiently contribute and polish my skills and 
+abilities for the growth of the organization and build my professional career. 
+Education 
+Sagar Group of Institutions – SISTec, Gandhinagar Campus, Bhopal - MP 
+B.Tech. – Computer Science & Engineering | CGPA: 6.29 / 10 (2025)  
+Changu Kana Thakur Jr. College, Panvel  
+12th | Maharashtra Board | 63.00 % (2021) 
+ 
+Changu Kana Thakur Vidyalaya, Panvel  
+10th | Maharashtra Board | 48.00 % (2019) 
+ 
+Project Details  
+Title: Air Quality Monitor                     Technology Used: Python, ThingSpeak & Blynk Platform          
+Description: Developed an IoT-Based system using Blynk platform to monitor and analyze air quality 
+parameters. 
+Title: Stock Market Comparison Analysis       Technology Used: Python & API used yfinance 
+Description: The Stock Market Comparison Analysis project uses Python to compare different stocks or 
+market indices, helping investors understand trends and make better decisions based on historical data. 
+Title: Car Price Predictor                                  Technology Used: Python, Flask, HTML, CSS & MySQL  
+Description: Developed & deployed a web app to predict the price of used cars. 
+Title: House Rental Prediction                         Technology Used: Python, Flask, HTML, CSS & MySQL  
+Description: Developed & deployed a web app to predict the price houses for rent. 
+Key Technical Skills 
+* Python *SQL    *OOPS    * Machine Learning  * HTML * CSS    
+Workshops | Certifications  
+ Attended a 3-day workshop on Machine Learning by Coding Thinker at SISTec, Bhopal.  
+ Completed an online certified course on HTML & CSS from IIT – Bombay. 
+ Attended a 3-day workshop on Data Structure & Algorithm from MANIT – Bhopal. 
+ Completed an online certified course on Python from LinkedIn Learning. 
+Co-Curricular Activities | Accolades  
+ Selected as the Lead of the Sports Committee of the Student Activity Council. (2024 - 2025) 
+ Selected as the Lead of the Cricket Team  
+ Winner of Sagar Roadies at Sagar Fiesta - 2023 
+ 
+Strengths | Interpersonal Skills 
+* Leader * Quick Learner * Team Player     * Time Management     * Adaptive
